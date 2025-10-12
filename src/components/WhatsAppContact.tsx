@@ -24,7 +24,7 @@ const WhatsAppContact: React.FC<WhatsAppContactProps> = ({
   };
 
   // The path to the GradeChamp logo
-  const gradechampLogo = "/lovable-uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png";
+  const gradechampLogo = "/uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png";
 
   return (
     <Button

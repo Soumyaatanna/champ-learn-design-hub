@@ -27,7 +27,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <img 
-                src="/lovable-uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png" 
+                src="/uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png" 
                 alt="GradeChamp Logo" 
                 className="h-8 w-auto"
                 loading="lazy"
@@ -113,7 +113,7 @@ const Footer = () => {
                   alt="WhatsApp" 
                   className="h-5 w-5 mr-2 text-gradechamp-blue"
                   onError={(e) => {
-                    e.currentTarget.src = "/lovable-uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png";
+                    e.currentTarget.src = "/uploads/af53a0ef-4355-40ef-ab74-781f6fa9f1e3.png";
                   }}
                 />
                 <a href="https://wa.me/918555974274" target="_blank" rel="noopener noreferrer">+91 85559 74274</a>
